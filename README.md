@@ -2,19 +2,19 @@
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
 
-- 🔭 I’m currently working on NodeJs
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Frontend
+- 🔭 I’m currently working on Leecode Questions
+- 🌱 I’m currently learning DSA
+- 💬 Ask me anything about Project Managment, Networking, IT Support
 - 📫 How to reach me: saviomartin2020@gmail.com
-- 😄 My website: https://savio.works/
-- ⚡ Fun fact: I'm comming to teen
+- 😄 My website: https://savio.works/](https://iubaidrmn.my.canva.site/
+- ⚡ Favourite Quote: "Learning Never Exhausts the mind"
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
 
-- <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/instagram%20@teen_developer-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/facebook%20@saviomartin.1694-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-- <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/twitter%20@saviomartin3-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-- <a href="https://savio.works/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20savio.works-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+- <a href="https://www.instagram.com/iubaidrmn/"><img src="https://img.shields.io/badge/instagram%20@teen_developer-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+- <a href="https://www.facebook.com/obedientobyed/"><img src="https://img.shields.io/badge/facebook%20@saviomartin.1694-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+- <a href="https://www.twiter.com/itehit/"><img src="https://img.shields.io/badge/twitter%20@saviomartin3-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
 
@@ -47,8 +47,6 @@
 
 <img src="https://github.com/saviomartin/saviomartin/blob/master/assets/repo.png?raw=true">
 
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=sprintnote&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=covid-chatbot&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin" id="counter">
