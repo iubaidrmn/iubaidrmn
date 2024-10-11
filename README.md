@@ -2,7 +2,7 @@ About
 
 - 🔭 I’m currently working on Leecode Questions
 - 🌱 I’m currently learning DSA
-- 💬 Ask me anything about Project Managment, Networking, IT Support
+- 💬 Ask me anything about Project Managment, Computer Networks, IT Support
 - 📫 How to reach me: iubaidrmn@gmail.com
 - 😄 My website: https://iubaidrmn.my.canva.site/
 - ⚡ Favourite Quote: "Learning Never Exhausts the mind"
