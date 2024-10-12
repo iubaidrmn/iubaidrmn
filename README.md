@@ -10,8 +10,17 @@ About
 Socials
 
 
-- <a href="https://www.facebook.com/obedientobyed/"><img src="https://img.shields.io/badge/facebook%20@saviomartin.1694-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-- <a href="https://www.twiter.com/itehit/"><img src="https://img.shields.io/badge/twitter%20@saviomartin3-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/iubaidrmn/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@iubaidrmn">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://x.com/itheit">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 My Tech Stack
 
@@ -21,7 +30,6 @@ My Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
 <br>
 ![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
-![materializecss](https://img.shields.io/badge/Materialize%20css-grey?style=for-the-badge&logo=google&logoColor=white&labelColor=8E2DE2)
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
 ![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
 <br>
