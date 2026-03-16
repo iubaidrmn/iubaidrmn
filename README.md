@@ -2,7 +2,6 @@ About
 
 - 🔭 I’m currently working on Leetcode Questions.
 - 🌱 I’m currently learning DSA.
-- 💬 Ask me anything about Project Managment, Computer Networks, IT Support
 - 📫 How to reach me: iubaidrmn@gmail.com
 - 😄 My website: https://iubaidrmn.my.canva.site/
 - 🔄 Backup Website(Under Construction): https://iubaidrmn.github.io/ubaid/
